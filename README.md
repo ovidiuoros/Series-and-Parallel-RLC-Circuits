@@ -1,5 +1,6 @@
 # ⚡ Series & Parallel RLC Circuits — MATLAB GUI
 
+![Year](https://img.shields.io/badge/year-2023--2024-lightgrey)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2019a%2B-orange?logo=mathworks)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Language](https://img.shields.io/badge/UI-Romanian-blue)
@@ -9,7 +10,7 @@ Change R, L, C, the source voltage and frequency, and instantly see how impedanc
 currents and voltages behave — in the time domain and across frequency.
 
 > University project for the *Computer-Aided Graphics* course (Grafică Asistată de Calculator),
-> Technical University of Cluj-Napoca.
+> Technical University of Cluj-Napoca, 2023-2024
 
 <p align="center">
   <img src="docs/screenshots/main-menu.png" alt="Main menu" width="720">
